@@ -12,3 +12,4 @@ Deep Learning CV based Attendance using Pytorch
 * [Face Verification on IJB-C](https://paperswithcode.com/sota/face-verification-on-ijb-c)
 * [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://paperswithcode.com/paper/facenet-a-unified-embedding-for-face)
 * [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://paperswithcode.com/paper/joint-face-detection-and-alignment-using)
+* [PyTorch Face Recognizer based on 'VGGFace2: A dataset for recognising faces across pose and age'.](https://github.com/cydonia999/VGGFace2-pytorch)
