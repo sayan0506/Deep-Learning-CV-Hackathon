@@ -14,3 +14,4 @@ Deep Learning CV based Attendance using Pytorch
 * [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://paperswithcode.com/paper/joint-face-detection-and-alignment-using)
 * [PyTorch Face Recognizer based on 'VGGFace2: A dataset for recognising faces across pose and age'.](https://github.com/cydonia999/VGGFace2-pytorch)
 * [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://paperswithcode.com/paper/arcface-additive-angular-margin-loss-for-deep)
+* [Arcface Pytorch Implementation](https://github.com/TreB1eN/InsightFace_Pytorch)
