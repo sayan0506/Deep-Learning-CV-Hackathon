@@ -16,3 +16,4 @@ Deep Learning CV based Attendance using Pytorch
 * [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://paperswithcode.com/paper/arcface-additive-angular-margin-loss-for-deep)
 * [Arcface Pytorch Implementation](https://github.com/TreB1eN/InsightFace_Pytorch)
 * [Facenet_mtcnn_working repo](https://github.com/timesler/facenet-pytorch)
+* [DeepFace Github](https://github.com/serengil/deepface)
