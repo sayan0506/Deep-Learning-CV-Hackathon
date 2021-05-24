@@ -18,3 +18,4 @@ Deep Learning CV based Attendance using Pytorch
 * [Facenet_mtcnn_working repo](https://github.com/timesler/facenet-pytorch)
 * [DeepFace Github](https://github.com/serengil/deepface)
 * [One Shot Siamese](https://github.com/kevinzakka/one-shot-siamese)
+* [Facenet Implementation](https://github.com/tbmoon/facenet)
