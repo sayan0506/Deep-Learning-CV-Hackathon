@@ -5,6 +5,8 @@ Deep Learning CV based Attendance using Pytorch
 
 ## [Train Dataset](https://drive.google.com/file/d/12_WTFi9ppvD-loaWUWpUar25Z3nT5k9P/view)
 
+## [Face Verification Colab Link](https://colab.research.google.com/drive/1APFS_Ol5ys9d83XDgKIQhjJqiysqOql1?authuser=2#scrollTo=_HatB2hReIlp)
+
 # **Reference**
 
 * [VGGFace2: A dataset for recognising faces across pose and age](https://paperswithcode.com/paper/vggface2-a-dataset-for-recognising-faces)
