@@ -7,6 +7,8 @@ Deep Learning CV based Attendance using Pytorch
 
 ## [Face Verification Colab Link](https://colab.research.google.com/drive/1APFS_Ol5ys9d83XDgKIQhjJqiysqOql1?authuser=2#scrollTo=_HatB2hReIlp)
 
+[VarGFaceNet: An Efficient Variable Group Convolutional Neural Network for Lightweight Face Recognition](https://paperswithcode.com/paper/vargfacenet-an-efficient-variable-group)
+
 # **Reference**
 
 * [VGGFace2: A dataset for recognising faces across pose and age](https://paperswithcode.com/paper/vggface2-a-dataset-for-recognising-faces)
