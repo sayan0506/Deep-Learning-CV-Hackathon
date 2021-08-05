@@ -12,6 +12,7 @@ Deep Learning CV based Attendance using Pytorch
 Implement the following-
 [VarGFaceNet: An Efficient Variable Group Convolutional Neural Network for Lightweight Face Recognition](https://paperswithcode.com/paper/vargfacenet-an-efficient-variable-group)
 [Knowledge Distillation in Neural network resource](https://www.youtube.com/results?search_query=knowledge+distillation+deep+learning)
+[ArcFace explanation](https://medium.com/analytics-vidhya/exploring-other-face-recognition-approaches-part-2-arcface-88cda1fdfeb8)
 
 # **Reference**
 
